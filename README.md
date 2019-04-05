@@ -11,5 +11,4 @@ docker-compose up -d
 
 #setting PHP storm
 
-
-
+![alt text](https://github.com/caopaolo/XdebugDockerPHPstorm/blob/master/img/setting.png)
